@@ -1,6 +1,9 @@
 # Todolist
 Ceci est la version mobile de la suite todolist communiquant avec todolist api
 
+__ Pre-requis __
+
+
 **Configuration**
 
 -Importez le projet dans android studio
