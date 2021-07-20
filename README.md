@@ -14,5 +14,6 @@ __Configuration__
 * importer les dependances gradle
 * Puis run le projet 
 
-__Rezultat__
-![login](https://github.com/Gilles-kpn/Todolist/result/Screenshot_20210720-124102_TodoList.jpg)
+__Resultat__
+
+![login](https://github.com/Gilles-kpn/Todolist/blob/result/Screenshot_20210720-124102_TodoList.jpg)
