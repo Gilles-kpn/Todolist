@@ -1,8 +1,11 @@
 # Todolist
 Ceci est la version mobile de la suite todolist communiquant avec todolist api
 
-__ Pre-requis __
+__Pre-requis__
 
+* Avoir cloner le repo Todolist-Api
+* Deployer l'Api sur un serveur 
+* Avoir Android studio installer
 
 **Configuration**
 
