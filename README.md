@@ -15,5 +15,11 @@ __Configuration__
 * Puis run le projet 
 
 __Resultat__
-
-<img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="100" height="200" >
+<div style="display:flex;">
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
+</div>
