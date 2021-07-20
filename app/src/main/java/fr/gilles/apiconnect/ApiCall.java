@@ -94,7 +94,7 @@ public class ApiCall {
     private void executeRequest(int method, String url, JSONObject data, Response.Listener<JSONObject> responseListener){
         checkIsConnected();
         if (isConnectedToInternet){
-            JsonObjectRequest request = new JsonObjectRequest(method,"https://todolist-api.000webhostapp.com/api/"+url,data,responseListener,(error -> {
+            JsonObjectRequest request = new JsonObjectRequest(method,"http://localhost/api/"+url,data,responseListener,(error -> {
                 AlertBox.show("Une erreur est survenue", context);
                 error.printStackTrace();
             }));
