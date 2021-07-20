@@ -16,10 +16,10 @@ __Configuration__
 
 __Resultat__
 <div style="display:flex;">
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124028_TodoList.jpg" alt="" width="150" height="250" >
   <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
-  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
-  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
-  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
-  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
-  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="150" height="250" >
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124108_TodoList.jpg" alt="" width="150" height="250" >
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124036_TodoList.jpg" alt="" width="150" height="250" >
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124056_TodoList.jpg" alt="" width="150" height="250" >
+  <img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124039_TodoList.jpg" alt="" width="150" height="250" >
 </div>
