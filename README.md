@@ -16,4 +16,4 @@ __Configuration__
 
 __Resultat__
 
-![login](https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg | width=100)
+<img src="https://github.com/Gilles-kpn/Todolist/blob/main/result/Screenshot_20210720-124102_TodoList.jpg" alt="" width="100" height="200" >
